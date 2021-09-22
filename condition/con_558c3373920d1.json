@@ -1,0 +1,1 @@
+{"type": "node", "id": "24981", "labels": ["condition"], "properties": {"creation_time": 1512660623415, "event_stamp": "2015-06-25T16:59:31", "last_updated": 1512660623415, "condition_text": "successful stop trials", "name": "successful stop trials", "condition_description": "None", "id_user": "usr_49a467bf4e0db", "id": "con_558c3373920d1"}}

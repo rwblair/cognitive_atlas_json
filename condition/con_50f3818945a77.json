@@ -1,0 +1,1 @@
+{"type": "node", "id": "24838", "labels": ["condition"], "properties": {"creation_time": 1512660618376, "event_stamp": "2013-01-14T03:54:49", "last_updated": 1512660618376, "condition_text": "still", "name": "still", "condition_description": "participant does not move their head or body during the task", "id_user": "usr_4de5345b3b6a8", "id": "con_50f3818945a77"}}

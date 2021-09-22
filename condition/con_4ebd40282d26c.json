@@ -1,0 +1,1 @@
+{"type": "node", "id": "24643", "labels": ["condition"], "properties": {"creation_time": 1512660611611, "event_stamp": "2011-11-11T15:32:56", "last_updated": 1512660611611, "condition_text": "Failed stop trial", "name": "Failed stop trial", "condition_description": "Trial on which subject fails to successfully inhibit", "id_user": "usr_49a467bf4e0db", "id": "con_4ebd40282d26c"}}

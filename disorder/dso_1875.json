@@ -1,0 +1,1 @@
+{"type": "node", "id": "29940", "labels": ["disorder"], "properties": {"id_protocol": "DOID", "event_stamp": "2013-11-20T15:38:22", "name": "impotence", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_1875", "flag_for_curator": 1}, "ISA": [{"id": "dso_1876", "protocol": "DOID", "fulltext": "sexual dysfunction"}]}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24931", "labels": ["condition"], "properties": {"creation_time": 1512660621640, "event_stamp": "2014-04-10T12:51:18", "last_updated": 1512660621640, "condition_text": "Detection", "name": "Detection", "condition_description": "Decide whether a line is crossed at all", "id_user": "usr_49a467bf4e0db", "id": "con_534693c651f43"}}

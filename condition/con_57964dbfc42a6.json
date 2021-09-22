@@ -1,0 +1,1 @@
+{"type": "node", "id": "25035", "labels": ["condition"], "properties": {"creation_time": 1512660625254, "event_stamp": "2016-07-25T17:34:55", "last_updated": 1512660625254, "condition_text": "Memory", "name": "Memory", "condition_description": "Memorisation of five spoken words (not scored)", "id_user": "usr_579611e01221d", "id": "con_57964dbfc42a6"}}

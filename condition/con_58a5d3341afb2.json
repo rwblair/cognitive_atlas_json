@@ -1,0 +1,1 @@
+{"type": "node", "id": "25051", "labels": ["condition"], "properties": {"creation_time": 1512660625803, "event_stamp": "2017-02-16T16:28:36", "last_updated": 1512660625803, "condition_text": "BIO", "name": "BIO", "condition_description": "Biological motion", "id_user": "usr_58a5d272c31ee", "id": "con_58a5d3341afb2"}}

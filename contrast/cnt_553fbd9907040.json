@@ -1,0 +1,1 @@
+{"type": "node", "id": "27230", "labels": ["contrast"], "properties": {"creation_time": 1512660691021, "event_stamp": "2015-04-28T17:04:25", "last_updated": 1512660691021, "name": "receiving feedback that peers disagreed minus peers agreed during feedback trials [peers higher + peers lower > 2*peers agree]", "id_user": "usr_51bc76ae9636c", "id": "cnt_553fbd9907040"}}

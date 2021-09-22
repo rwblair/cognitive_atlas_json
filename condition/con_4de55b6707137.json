@@ -1,0 +1,1 @@
+{"type": "node", "id": "24429", "labels": ["condition"], "properties": {"creation_time": 1512660603862, "event_stamp": "2011-05-31T21:19:35", "last_updated": 1512660603862, "condition_text": "antisaccade", "name": "antisaccade", "condition_description": "eye movements away from the fixation point", "id_user": "usr_4de5345b3b6a8", "id": "con_4de55b6707137"}}

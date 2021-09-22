@@ -1,0 +1,1 @@
+{"type": "node", "id": "57881", "labels": ["condition"], "properties": {"creation_time": 1618388492, "last_updated": 1618388492, "name": "physical causality (control condition)", "id": "con_hEDupjDZgjBDv"}, "HASCONTRAST": [{"id": "cnt_a2PSuMWjVVGVr", "weight": -1.0}, {"id": "cnt_BK1Is5duGWfGE", "weight": -1.0}, {"id": "cnt_pkQWYBGdR62Gp", "weight": -1.0}]}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24875", "labels": ["condition"], "properties": {"creation_time": 1512660619688, "event_stamp": "2013-03-28T19:14:58", "last_updated": 1512660619688, "condition_text": "Non-target", "name": "Non-target", "condition_description": "the dot pattern differs from the intended target pattern", "id_user": "usr_4de5345b3b6a8", "id": "con_515496b2797ae"}}

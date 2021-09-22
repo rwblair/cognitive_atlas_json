@@ -1,0 +1,1 @@
+{"type": "node", "id": "24876", "labels": ["condition"], "properties": {"creation_time": 1512660619741, "event_stamp": "2013-04-23T18:16:21", "last_updated": 1512660619741, "condition_text": "Mirror-Switch", "name": "Mirror-Switch", "condition_description": "Mirror-reversed trials preceded by a plain text trial", "id_user": "usr_49a467bf4e0db", "id": "con_5176cff54add4"}}

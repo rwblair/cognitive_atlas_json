@@ -1,0 +1,1 @@
+{"type": "node", "id": "24863", "labels": ["condition"], "properties": {"creation_time": 1512660619249, "event_stamp": "2013-02-27T22:58:32", "last_updated": 1512660619249, "condition_text": "number of dots", "name": "number of dots", "condition_description": "number of dots in dot matrix presented on each trial", "id_user": "usr_4cf5de07654c8", "id": "con_512e8f98ce8e7"}}

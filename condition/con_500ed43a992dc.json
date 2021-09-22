@@ -1,0 +1,1 @@
+{"type": "node", "id": "24736", "labels": ["condition"], "properties": {"creation_time": 1512660614780, "event_stamp": "2012-07-24T16:58:34", "last_updated": 1512660614780, "condition_text": "control", "name": "control", "condition_description": "neither targets nor distractors are repeated across trials", "id_user": "usr_4f177506dde77", "id": "con_500ed43a992dc"}}

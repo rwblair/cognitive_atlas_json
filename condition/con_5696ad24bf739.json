@@ -1,0 +1,1 @@
+{"type": "node", "id": "25014", "labels": ["condition"], "properties": {"creation_time": 1512660624557, "event_stamp": "2016-01-13T20:01:40", "last_updated": 1512660624557, "condition_text": "Expected-Benefits(EB)", "name": "Expected-Benefits(EB)", "condition_description": "expected value and risk", "id_user": "usr_566738e285cfc", "id": "con_5696ad24bf739"}}

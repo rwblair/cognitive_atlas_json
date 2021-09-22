@@ -1,0 +1,1 @@
+{"type": "node", "id": "24600", "labels": ["condition"], "properties": {"creation_time": 1512660610108, "event_stamp": "2011-08-24T15:55:45", "last_updated": 1512660610108, "condition_text": "Heat Stimulation", "name": "Heat Stimulation", "condition_description": "Stimulation at a temperature above pain threshold", "id_user": "usr_4e4a7f57b30e6", "id": "con_4e551f0136d17"}}

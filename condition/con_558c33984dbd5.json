@@ -1,0 +1,1 @@
+{"type": "node", "id": "24983", "labels": ["condition"], "properties": {"creation_time": 1512660623486, "event_stamp": "2015-06-25T17:00:08", "last_updated": 1512660623486, "condition_text": "motion cohrence", "name": "motion cohrence", "condition_description": "a parametric manipulation of dot motion coherence", "id_user": "usr_49a467bf4e0db", "id": "con_558c33984dbd5"}}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24381", "labels": ["condition"], "properties": {"creation_time": 1512660601918, "event_stamp": "2009-12-04T19:59:12", "last_updated": 1512660601918, "condition_text": "neutral", "name": "neutral", "condition_description": "The word is not a color name", "id_user": "usr_0000000000", "id": "con_4b196a106c24a"}}

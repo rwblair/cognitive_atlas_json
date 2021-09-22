@@ -1,0 +1,1 @@
+{"type": "node", "id": "24703", "labels": ["condition"], "properties": {"creation_time": 1512660613646, "event_stamp": "2012-07-10T21:16:32", "last_updated": 1512660613646, "condition_text": "pump", "name": "pump", "condition_description": "The participant chooses to pump the balloon", "id_user": "usr_49a467bf4e0db", "id": "con_4ffc9bb00438e"}}

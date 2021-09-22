@@ -1,0 +1,1 @@
+{"type": "node", "id": "24650", "labels": ["condition"], "properties": {"creation_time": 1512660611885, "event_stamp": "2011-11-11T15:45:55", "last_updated": 1512660611885, "condition_text": "Probe", "name": "Probe", "condition_description": "Probe asking which of two numbers is higher", "id_user": "usr_49a467bf4e0db", "id": "con_4ebd43333ae4d"}}

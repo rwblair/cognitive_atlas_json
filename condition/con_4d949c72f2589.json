@@ -1,0 +1,1 @@
+{"type": "node", "id": "24425", "labels": ["condition"], "properties": {"creation_time": 1512660603717, "event_stamp": "2011-03-31T15:23:30", "last_updated": 1512660603717, "condition_text": "Word", "name": "Word", "condition_description": "Pairs of real english words", "id_user": "usr_49a467bf4e0db", "id": "con_4d949c72f2589"}}

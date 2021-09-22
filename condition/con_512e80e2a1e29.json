@@ -1,0 +1,1 @@
+{"type": "node", "id": "24859", "labels": ["condition"], "properties": {"creation_time": 1512660619138, "event_stamp": "2013-02-27T21:55:46", "last_updated": 1512660619138, "condition_text": "response time", "name": "response time", "condition_description": "response time to dot stimuli", "id_user": "usr_4cf5de07654c8", "id": "con_512e80e2a1e29"}}

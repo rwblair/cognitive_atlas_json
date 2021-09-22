@@ -1,0 +1,1 @@
+{"type": "node", "id": "24701", "labels": ["condition"], "properties": {"creation_time": 1512660613588, "event_stamp": "2011-12-05T16:45:32", "last_updated": 1512660613588, "condition_text": "Junk trial", "name": "Junk trial", "condition_description": "Go trial on which subject fails to respond or responds incorrectly", "id_user": "usr_4cf5de07654c8", "id": "con_4edcf52c2e669"}}

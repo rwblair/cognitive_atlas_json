@@ -1,0 +1,1 @@
+{"type": "node", "id": "24919", "labels": ["condition"], "properties": {"creation_time": 1512660621229, "event_stamp": "2013-05-02T05:37:00", "last_updated": 1512660621229, "condition_text": "negative feedback", "name": "negative feedback", "condition_description": "trials when subject received negative feedback", "id_user": "usr_4cf5de07654c8", "id": "con_5181fb7c1b543"}}

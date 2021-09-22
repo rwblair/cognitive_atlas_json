@@ -1,0 +1,1 @@
+{"type": "node", "id": "24930", "labels": ["condition"], "properties": {"creation_time": 1512660621606, "event_stamp": "2014-04-10T12:51:05", "last_updated": 1512660621606, "condition_text": "Landmark", "name": "Landmark", "condition_description": "Decide whether a line is crossed in the middle", "id_user": "usr_49a467bf4e0db", "id": "con_534693b9b6973"}}

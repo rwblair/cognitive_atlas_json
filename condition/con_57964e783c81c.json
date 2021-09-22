@@ -1,0 +1,1 @@
+{"type": "node", "id": "25039", "labels": ["condition"], "properties": {"creation_time": 1512660625385, "event_stamp": "2016-07-25T17:38:00", "last_updated": 1512660625385, "condition_text": "Delayed recall", "name": "Delayed recall", "condition_description": "Recall of the five words learned earlier", "id_user": "usr_579611e01221d", "id": "con_57964e783c81c"}}

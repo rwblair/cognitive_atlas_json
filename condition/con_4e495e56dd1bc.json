@@ -1,0 +1,1 @@
+{"type": "node", "id": "24587", "labels": ["condition"], "properties": {"creation_time": 1512660609679, "event_stamp": "2011-08-15T17:58:46", "last_updated": 1512660609679, "condition_text": "No-switch trials", "name": "No-switch trials", "condition_description": "trials that are preceeded by trials of the same type", "id_user": "usr_4e42a3196fbcd", "id": "con_4e495e56dd1bc"}}

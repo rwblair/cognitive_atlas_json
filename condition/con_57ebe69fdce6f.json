@@ -1,0 +1,1 @@
+{"type": "node", "id": "25048", "labels": ["condition"], "properties": {"creation_time": 1512660625697, "event_stamp": "2016-09-28T15:49:51", "last_updated": 1512660625697, "condition_text": "rest", "name": "rest", "condition_description": "resting baseline", "id_user": "usr_49a467bf4e0db", "id": "con_57ebe69fdce6f"}}

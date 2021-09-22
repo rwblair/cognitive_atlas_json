@@ -1,0 +1,1 @@
+{"type": "node", "id": "25031", "labels": ["condition"], "properties": {"creation_time": 1512660625120, "event_stamp": "2016-07-25T16:53:02", "last_updated": 1512660625120, "condition_text": "lexical active", "name": "lexical active", "condition_description": "lexical errors for active voice sentences", "id_user": "usr_579611e01221d", "id": "con_579643ee71405"}}

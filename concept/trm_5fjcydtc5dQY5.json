@@ -1,0 +1,1 @@
+{"type": "node", "id": "56787", "labels": ["concept"], "properties": {"creation_time": 1585252796253, "last_updated": 1585252796253, "name": "visual shape recognition", "definition_text": "is the ability to match, identify, and name a shape based on its visual display.", "id": "trm_5fjcydtc5dQY5"}, "PARTOF": [{"id": "trm_557b4b56de455"}], "CLASSIFIEDUNDER": [{"id": "ctp_C1"}]}

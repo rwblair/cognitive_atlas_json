@@ -1,0 +1,1 @@
+{"type": "node", "id": "24850", "labels": ["condition"], "properties": {"creation_time": 1512660618852, "event_stamp": "2013-01-18T18:51:01", "last_updated": 1512660618852, "condition_text": "Delayed", "name": "Delayed", "condition_description": "Participant is shown list 20 minutes after learning target words", "id_user": "usr_4de5345b3b6a8", "id": "con_50f999958552e"}}

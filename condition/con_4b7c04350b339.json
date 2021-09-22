@@ -1,0 +1,1 @@
+{"type": "node", "id": "24400", "labels": ["condition"], "properties": {"creation_time": 1512660602643, "event_stamp": "2010-02-17T14:59:01", "last_updated": 1512660602643, "condition_text": "Difficulty Level 2", "name": "Difficulty Level 2", "condition_description": "Only two stimulus dimensions must match", "id_user": "usr_49a467bf4e0db", "id": "con_4b7c04350b339"}}

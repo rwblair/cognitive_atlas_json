@@ -1,0 +1,1 @@
+{"type": "node", "id": "24940", "labels": ["condition"], "properties": {"creation_time": 1512660621946, "event_stamp": "2015-03-19T22:48:37", "last_updated": 1512660621946, "condition_text": "0-back correct trials", "name": "0-back correct trials", "condition_description": "event-related", "id_user": "usr_51bc76ae9636c", "id": "con_550b524533150"}}

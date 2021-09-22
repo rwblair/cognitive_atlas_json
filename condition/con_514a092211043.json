@@ -1,0 +1,1 @@
+{"type": "node", "id": "24871", "labels": ["condition"], "properties": {"creation_time": 1512660619536, "event_stamp": "2013-03-20T19:08:18", "last_updated": 1512660619536, "condition_text": "reject", "name": "reject", "condition_description": "trials rejected", "id_user": "usr_4cf5de07654c8", "id": "con_514a092211043"}}

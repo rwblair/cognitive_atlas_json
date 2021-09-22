@@ -1,0 +1,1 @@
+{"type": "node", "id": "30022", "labels": ["disorder"], "properties": {"event_stamp": "2014-01-10T21:30:48", "id_protocol": "NOID", "name": "philoprogeria", "definition": "made up", "id_user": "usr_49a467bf4e0db", "id": "dso_52d06688e07f3", "flag_for_curator": 1}, "ISA": [{"id": "dso_2030", "protocol": "DOID", "fulltext": "anxiety disorder"}]}

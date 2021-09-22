@@ -1,0 +1,1 @@
+{"type": "node", "id": "24747", "labels": ["condition"], "properties": {"creation_time": 1512660615241, "event_stamp": "2012-07-30T20:19:01", "last_updated": 1512660615241, "condition_text": "time-based", "name": "time-based", "condition_description": "remembering to perform task in specified intervals", "id_user": "usr_4f177506dde77", "id": "con_5016ec35ef530"}}

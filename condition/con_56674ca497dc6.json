@@ -1,0 +1,1 @@
+{"type": "node", "id": "25008", "labels": ["condition"], "properties": {"creation_time": 1512660624343, "event_stamp": "2015-12-08T21:33:24", "last_updated": 1512660624343, "condition_text": "Negative probe", "name": "Negative probe", "condition_description": "a letter that was in the forget set", "id_user": "usr_566738e285cfc", "id": "con_56674ca497dc6"}}

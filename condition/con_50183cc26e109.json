@@ -1,0 +1,1 @@
+{"type": "node", "id": "24753", "labels": ["condition"], "properties": {"creation_time": 1512660615451, "event_stamp": "2012-07-31T20:14:58", "last_updated": 1512660615451, "condition_text": "related", "name": "related", "condition_description": "prime is related to target", "id_user": "usr_4f177506dde77", "id": "con_50183cc26e109"}}

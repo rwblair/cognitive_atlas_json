@@ -1,0 +1,1 @@
+{"type": "node", "id": "24588", "labels": ["condition"], "properties": {"creation_time": 1512660609710, "event_stamp": "2011-08-15T17:59:10", "last_updated": 1512660609710, "condition_text": "Switch trials", "name": "Switch trials", "condition_description": "trials that are preceeded by trials of the other task type", "id_user": "usr_4e42a3196fbcd", "id": "con_4e495e6ea76b0"}}

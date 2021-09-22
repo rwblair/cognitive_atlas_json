@@ -1,0 +1,1 @@
+{"type": "node", "id": "24725", "labels": ["condition"], "properties": {"creation_time": 1512660614408, "event_stamp": "2012-07-18T19:45:09", "last_updated": 1512660614408, "condition_text": "short", "name": "short", "condition_description": "delay of 5 seconds", "id_user": "usr_4f177506dde77", "id": "con_50071245a130e"}}

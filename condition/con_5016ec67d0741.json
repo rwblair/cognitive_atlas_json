@@ -1,0 +1,1 @@
+{"type": "node", "id": "24749", "labels": ["condition"], "properties": {"creation_time": 1512660615310, "event_stamp": "2012-07-30T20:19:51", "last_updated": 1512660615310, "condition_text": "high importance", "name": "high importance", "condition_description": "task described as more important than alternative task", "id_user": "usr_4f177506dde77", "id": "con_5016ec67d0741"}}

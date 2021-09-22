@@ -1,0 +1,1 @@
+{"type": "node", "id": "25030", "labels": ["condition"], "properties": {"creation_time": 1512660625087, "event_stamp": "2016-07-25T16:52:45", "last_updated": 1512660625087, "condition_text": "reverse role passive", "name": "reverse role passive", "condition_description": "reverse role errors for passive voice sentences", "id_user": "usr_579611e01221d", "id": "con_579643ddcaf30"}}

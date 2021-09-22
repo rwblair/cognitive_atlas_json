@@ -1,0 +1,1 @@
+{"type": "node", "id": "24879", "labels": ["condition"], "properties": {"creation_time": 1512660619866, "event_stamp": "2013-04-23T18:17:17", "last_updated": 1512660619866, "condition_text": "Plain-Repeat", "name": "Plain-Repeat", "condition_description": "Plain-text trials preceded by a plain-text trial", "id_user": "usr_49a467bf4e0db", "id": "con_5176d02ddd1b0"}}

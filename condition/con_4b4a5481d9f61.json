@@ -1,0 +1,1 @@
+{"type": "node", "id": "24391", "labels": ["condition"], "properties": {"creation_time": 1512660602298, "event_stamp": "2010-01-10T22:28:17", "last_updated": 1512660602298, "condition_text": "2-back", "name": "2-back", "condition_description": "A condition requiring memory for stimuli occurring 2 stimuli back", "id_user": "usr_49a467bf4e0db", "id": "con_4b4a5481d9f61"}}

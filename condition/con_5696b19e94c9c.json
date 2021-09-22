@@ -1,0 +1,1 @@
+{"type": "node", "id": "25015", "labels": ["condition"], "properties": {"creation_time": 1512660624592, "event_stamp": "2016-01-13T20:20:46", "last_updated": 1512660624592, "condition_text": "Finite Horizon", "name": "Finite Horizon", "condition_description": "small, fixed number of trials", "id_user": "usr_566738e285cfc", "id": "con_5696b19e94c9c"}}

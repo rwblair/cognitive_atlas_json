@@ -1,0 +1,1 @@
+{"type": "node", "id": "24872", "labels": ["condition"], "properties": {"creation_time": 1512660619570, "event_stamp": "2013-03-28T18:48:48", "last_updated": 1512660619570, "condition_text": "change", "name": "change", "condition_description": "the second array contains a different item than the original", "id_user": "usr_4de5345b3b6a8", "id": "con_51549090cc831"}}

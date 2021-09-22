@@ -1,0 +1,1 @@
+{"type": "node", "id": "24878", "labels": ["condition"], "properties": {"creation_time": 1512660619834, "event_stamp": "2013-04-23T18:17:00", "last_updated": 1512660619834, "condition_text": "Plain-Switch", "name": "Plain-Switch", "condition_description": "Plain-text trials preceded by a mirror-reversed trial", "id_user": "usr_49a467bf4e0db", "id": "con_5176d01c424d9"}}

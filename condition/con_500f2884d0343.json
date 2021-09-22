@@ -1,0 +1,1 @@
+{"type": "node", "id": "24743", "labels": ["condition"], "properties": {"creation_time": 1512660615059, "event_stamp": "2012-07-24T22:58:12", "last_updated": 1512660615059, "condition_text": "wordlike", "name": "wordlike", "condition_description": "nonwords more closely resemble real words", "id_user": "usr_4f177506dde77", "id": "con_500f2884d0343"}}

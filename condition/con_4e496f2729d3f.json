@@ -1,0 +1,1 @@
+{"type": "node", "id": "24597", "labels": ["condition"], "properties": {"creation_time": 1512660610001, "event_stamp": "2011-08-15T19:10:31", "last_updated": 1512660610001, "condition_text": "Target", "name": "Target", "condition_description": "An &#34;X&#34; that is preceded by an &#34;A&#34;", "id_user": "usr_4e42a3196fbcd", "id": "con_4e496f2729d3f"}}

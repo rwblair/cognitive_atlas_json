@@ -1,0 +1,1 @@
+{"type": "node", "id": "52727", "labels": ["concept"], "properties": {"creation_time": 1571081009582, "last_updated": 1571081009582, "name": "music semantics", "definition_text": "the processing of semantic retrieval from music", "id": "trm_utk2EAwtfI6x7"}, "PARTOF": [{"id": "trm_yeQ7crXFocNza"}, {"id": "trm_jK0qVisychW39"}], "CLASSIFIEDUNDER": [{"id": "ctp_C6"}]}

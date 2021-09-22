@@ -1,0 +1,1 @@
+{"type": "node", "id": "24712", "labels": ["condition"], "properties": {"creation_time": 1512660613956, "event_stamp": "2012-07-17T19:47:50", "last_updated": 1512660613956, "condition_text": "consistent", "name": "consistent", "condition_description": "number is in a circle whose color follows the pattern specified", "id_user": "usr_4f177506dde77", "id": "con_5005c166b72f1"}}

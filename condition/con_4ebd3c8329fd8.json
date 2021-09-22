@@ -1,0 +1,1 @@
+{"type": "node", "id": "24640", "labels": ["condition"], "properties": {"creation_time": 1512660611508, "event_stamp": "2011-11-11T15:17:23", "last_updated": 1512660611508, "condition_text": "feedback", "name": "feedback", "condition_description": "presentation of feedback following response", "id_user": "usr_49a467bf4e0db", "id": "con_4ebd3c8329fd8"}}

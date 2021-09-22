@@ -1,0 +1,1 @@
+{"type": "node", "id": "29987", "labels": ["disorder"], "properties": {"id_protocol": "DOID", "event_stamp": "2013-11-20T15:38:38", "name": "AIDS phobia", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_603", "flag_for_curator": 1}, "ISA": [{"id": "dso_0060048", "protocol": "DOID", "fulltext": "nosophobia"}]}

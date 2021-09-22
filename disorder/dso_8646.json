@@ -1,0 +1,1 @@
+{"type": "node", "id": "29999", "labels": ["disorder"], "properties": {"event_stamp": "2013-11-20T15:38:46", "id_protocol": "DOID", "name": "substance-induced psychosis", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_8646", "flag_for_curator": 1}, "ISA": [{"id": "dso_2468", "protocol": "DOID", "fulltext": "psychotic disorder"}]}

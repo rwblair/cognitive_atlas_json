@@ -1,0 +1,1 @@
+{"type": "node", "id": "24431", "labels": ["condition"], "properties": {"creation_time": 1512660603947, "event_stamp": "2011-05-31T22:44:25", "last_updated": 1512660603947, "condition_text": "forward", "name": "forward", "condition_description": "participant repeats a string of digits in the order they were presented", "id_user": "usr_4de5345b3b6a8", "id": "con_4de56f49c241c"}}

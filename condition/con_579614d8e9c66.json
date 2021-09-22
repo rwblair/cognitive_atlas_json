@@ -1,0 +1,1 @@
+{"type": "node", "id": "25028", "labels": ["condition"], "properties": {"creation_time": 1512660625015, "event_stamp": "2016-07-25T13:32:08", "last_updated": 1512660625015, "condition_text": "Visual recall delayed", "name": "Visual recall delayed", "condition_description": "Visual recall after a delay of 10-15 minutes", "id_user": "usr_579611e01221d", "id": "con_579614d8e9c66"}}

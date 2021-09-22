@@ -1,0 +1,1 @@
+{"type": "node", "id": "27404", "labels": ["assertion"], "properties": {"creation_time": 1512660697591, "event_stamp": "2010-01-31T10:18:34", "last_updated": 1512660697591, "user_id": "usr_4b64af5545a03", "confidence_level": "100", "truth_value": "positive", "name": "morpheme is a part of word", "id": "ass_4b6558fa4df75", "flag_for_curator": "None", "id_subject_def": "NADA"}}

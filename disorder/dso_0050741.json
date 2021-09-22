@@ -1,0 +1,1 @@
+{"type": "node", "id": "29819", "labels": ["disorder"], "properties": {"event_stamp": "2013-11-20T15:38:09", "id_protocol": "DOID", "name": "alcohol dependence", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_0050741", "flag_for_curator": 1}, "ISA": [{"id": "dso_9973", "protocol": "DOID", "fulltext": "substance dependence"}, {"id": "dso_0060046"}]}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24386", "labels": ["condition"], "properties": {"creation_time": 1512660602101, "event_stamp": "2010-01-10T22:16:22", "last_updated": 1512660602101, "condition_text": "0-back", "name": "0-back", "condition_description": "A condition requiring stimulus matching but not working memory", "id_user": "usr_49a467bf4e0db", "id": "con_4b4a51b665917"}}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24723", "labels": ["condition"], "properties": {"creation_time": 1512660614336, "event_stamp": "2012-07-18T19:31:04", "last_updated": 1512660614336, "condition_text": "identical", "name": "identical", "condition_description": "second number is identical to the first", "id_user": "usr_4f177506dde77", "id": "con_50070ef8a9847"}}

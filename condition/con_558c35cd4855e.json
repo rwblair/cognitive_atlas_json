@@ -1,0 +1,1 @@
+{"type": "node", "id": "24996", "labels": ["condition"], "properties": {"creation_time": 1512660623935, "event_stamp": "2015-06-25T17:09:33", "last_updated": 1512660623935, "condition_text": "Response", "name": "Response", "condition_description": "Subject responds to the probe", "id_user": "usr_49a467bf4e0db", "id": "con_558c35cd4855e"}}

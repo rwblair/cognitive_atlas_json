@@ -1,0 +1,1 @@
+{"type": "node", "id": "24993", "labels": ["condition"], "properties": {"creation_time": 1512660623837, "event_stamp": "2015-06-25T17:04:00", "last_updated": 1512660623837, "condition_text": "response", "name": "response", "condition_description": "events on which the subject made a target detection response", "id_user": "usr_49a467bf4e0db", "id": "con_558c34808ccf8"}}

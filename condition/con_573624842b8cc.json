@@ -1,0 +1,1 @@
+{"type": "node", "id": "25021", "labels": ["condition"], "properties": {"creation_time": 1512660624782, "event_stamp": "2016-05-13T19:01:24", "last_updated": 1512660624782, "condition_text": "task A", "name": "task A", "condition_description": "The intention to perform task A is maintained during the delay \r\nphase.", "id_user": "usr_5550e439ddade", "id": "con_573624842b8cc"}}

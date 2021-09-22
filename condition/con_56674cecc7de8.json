@@ -1,0 +1,1 @@
+{"type": "node", "id": "25009", "labels": ["condition"], "properties": {"creation_time": 1512660624375, "event_stamp": "2015-12-08T21:34:36", "last_updated": 1512660624375, "condition_text": "Neutral probe", "name": "Neutral probe", "condition_description": "a letter that was not in the training set", "id_user": "usr_566738e285cfc", "id": "con_56674cecc7de8"}}

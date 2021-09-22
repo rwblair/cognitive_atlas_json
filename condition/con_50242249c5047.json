@@ -1,0 +1,1 @@
+{"type": "node", "id": "24770", "labels": ["condition"], "properties": {"creation_time": 1512660616066, "event_stamp": "2012-08-09T20:49:13", "last_updated": 1512660616066, "condition_text": "cued", "name": "cued", "condition_description": "segment within a given trial (either N, P, or U) during which cue is present", "id_user": "usr_4f177506dde77", "id": "con_50242249c5047"}}

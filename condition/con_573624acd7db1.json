@@ -1,0 +1,1 @@
+{"type": "node", "id": "25024", "labels": ["condition"], "properties": {"creation_time": 1512660624886, "event_stamp": "2016-05-13T19:02:04", "last_updated": 1512660624886, "condition_text": "no delay intention", "name": "no delay intention", "condition_description": "No intention is maintained during the delay phase.", "id_user": "usr_5550e439ddade", "id": "con_573624acd7db1"}}

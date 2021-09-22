@@ -1,0 +1,1 @@
+{"type": "node", "id": "25007", "labels": ["condition"], "properties": {"creation_time": 1512660624310, "event_stamp": "2015-12-08T21:33:08", "last_updated": 1512660624310, "condition_text": "Positive probe", "name": "Positive probe", "condition_description": "a letter that was in the memory set", "id_user": "usr_566738e285cfc", "id": "con_56674c945d1ff"}}

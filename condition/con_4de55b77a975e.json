@@ -1,0 +1,1 @@
+{"type": "node", "id": "24430", "labels": ["condition"], "properties": {"creation_time": 1512660603898, "event_stamp": "2011-05-31T21:19:51", "last_updated": 1512660603898, "condition_text": "prosaccade", "name": "prosaccade", "condition_description": "eye movements toward the fixation point", "id_user": "usr_4de5345b3b6a8", "id": "con_4de55b77a975e"}}

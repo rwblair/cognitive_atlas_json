@@ -1,0 +1,1 @@
+{"type": "node", "id": "24941", "labels": ["condition"], "properties": {"creation_time": 1512660621980, "event_stamp": "2015-03-19T22:48:51", "last_updated": 1512660621980, "condition_text": "0-back error trials", "name": "0-back error trials", "condition_description": "event-related", "id_user": "usr_51bc76ae9636c", "id": "con_550b52534532d"}}

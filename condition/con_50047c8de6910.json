@@ -1,0 +1,1 @@
+{"type": "node", "id": "24705", "labels": ["condition"], "properties": {"creation_time": 1512660613722, "event_stamp": "2012-07-16T20:41:49", "last_updated": 1512660613722, "condition_text": "in-phase", "name": "in-phase", "condition_description": "movement is consistent between hands", "id_user": "usr_4f177506dde77", "id": "con_50047c8de6910"}}

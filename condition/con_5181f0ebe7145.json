@@ -1,0 +1,1 @@
+{"type": "node", "id": "24884", "labels": ["condition"], "properties": {"creation_time": 1512660620035, "event_stamp": "2013-05-02T04:51:55", "last_updated": 1512660620035, "condition_text": "line trial response time", "name": "line trial response time", "condition_description": "response time for line trials", "id_user": "usr_4cf5de07654c8", "id": "con_5181f0ebe7145"}}

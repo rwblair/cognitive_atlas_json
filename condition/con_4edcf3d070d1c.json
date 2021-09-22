@@ -1,0 +1,1 @@
+{"type": "node", "id": "24698", "labels": ["condition"], "properties": {"creation_time": 1512660613514, "event_stamp": "2011-12-05T16:39:44", "last_updated": 1512660613514, "condition_text": "Successful stop", "name": "Successful stop", "condition_description": "Stop trial on which subjects successfully inhibit", "id_user": "usr_4cf5de07654c8", "id": "con_4edcf3d070d1c"}}

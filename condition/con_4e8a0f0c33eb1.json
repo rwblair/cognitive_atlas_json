@@ -1,0 +1,1 @@
+{"type": "node", "id": "24631", "labels": ["condition"], "properties": {"creation_time": 1512660611193, "event_stamp": "2011-10-03T19:37:48", "last_updated": 1512660611193, "condition_text": "Match trials", "name": "Match trials", "condition_description": "Trials on which the same shape is presented twice", "id_user": "usr_4e885e1ee3733", "id": "con_4e8a0f0c33eb1"}}

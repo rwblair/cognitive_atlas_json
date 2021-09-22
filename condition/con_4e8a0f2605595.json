@@ -1,0 +1,1 @@
+{"type": "node", "id": "24632", "labels": ["condition"], "properties": {"creation_time": 1512660611228, "event_stamp": "2011-10-03T19:38:14", "last_updated": 1512660611228, "condition_text": "Mismatch trials", "name": "Mismatch trials", "condition_description": "Trials on which different objects are presented", "id_user": "usr_4e885e1ee3733", "id": "con_4e8a0f2605595"}}

@@ -1,0 +1,1 @@
+{"type": "node", "id": "24874", "labels": ["condition"], "properties": {"creation_time": 1512660619646, "event_stamp": "2013-03-28T19:14:37", "last_updated": 1512660619646, "condition_text": "Target", "name": "Target", "condition_description": "the dot pattern matches the pattern that the subject is told to respond to", "id_user": "usr_4de5345b3b6a8", "id": "con_5154969d504f7"}}

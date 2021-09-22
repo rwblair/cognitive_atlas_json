@@ -1,0 +1,1 @@
+{"type": "node", "id": "29998", "labels": ["disorder"], "properties": {"id_protocol": "DOID", "event_stamp": "2013-11-20T15:38:46", "name": "subacute delirium", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_8645", "flag_for_curator": 1}, "ISA": [{"id": "dso_8646", "protocol": "DOID", "fulltext": "substance-induced psychosis"}]}

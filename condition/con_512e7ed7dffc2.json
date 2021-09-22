@@ -1,0 +1,1 @@
+{"type": "node", "id": "24855", "labels": ["condition"], "properties": {"creation_time": 1512660619022, "event_stamp": "2013-02-27T21:47:03", "last_updated": 1512660619022, "condition_text": "size of line", "name": "size of line", "condition_description": "size of line stimulus presented on each trial", "id_user": "usr_4cf5de07654c8", "id": "con_512e7ed7dffc2"}}

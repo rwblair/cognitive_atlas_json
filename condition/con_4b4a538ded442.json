@@ -1,0 +1,1 @@
+{"type": "node", "id": "24388", "labels": ["condition"], "properties": {"creation_time": 1512660602171, "event_stamp": "2010-01-10T22:24:13", "last_updated": 1512660602171, "condition_text": "Target", "name": "Target", "condition_description": "The stimulus to be responded to", "id_user": "usr_49a467bf4e0db", "id": "con_4b4a538ded442"}}

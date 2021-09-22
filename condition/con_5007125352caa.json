@@ -1,0 +1,1 @@
+{"type": "node", "id": "24726", "labels": ["condition"], "properties": {"creation_time": 1512660614443, "event_stamp": "2012-07-18T19:45:23", "last_updated": 1512660614443, "condition_text": "long", "name": "long", "condition_description": "delay of 60 seconds", "id_user": "usr_4f177506dde77", "id": "con_5007125352caa"}}

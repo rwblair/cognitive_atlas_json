@@ -1,0 +1,1 @@
+{"type": "node", "id": "24464", "labels": ["condition"], "properties": {"creation_time": 1512660605221, "event_stamp": "2012-08-07T18:25:21", "last_updated": 1512660605221, "condition_text": "descending", "name": "descending", "condition_description": "bets start high and decrease over time", "id_user": "usr_4f177506dde77", "id": "con_50215d9130bbd"}}

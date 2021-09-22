@@ -1,0 +1,1 @@
+{"type": "node", "id": "24733", "labels": ["condition"], "properties": {"creation_time": 1512660614680, "event_stamp": "2012-07-18T20:56:34", "last_updated": 1512660614680, "condition_text": "control", "name": "control", "condition_description": "each task performed individually", "id_user": "usr_4f177506dde77", "id": "con_5007230227b63"}}

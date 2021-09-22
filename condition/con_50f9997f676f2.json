@@ -1,0 +1,1 @@
+{"type": "node", "id": "24849", "labels": ["condition"], "properties": {"creation_time": 1512660618820, "event_stamp": "2013-01-18T18:50:39", "last_updated": 1512660618820, "condition_text": "Immediate", "name": "Immediate", "condition_description": "Participant is shown list immediately after learning target words", "id_user": "usr_4de5345b3b6a8", "id": "con_50f9997f676f2"}}

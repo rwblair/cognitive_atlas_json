@@ -1,0 +1,1 @@
+{"type": "node", "id": "24434", "labels": ["condition"], "properties": {"creation_time": 1512660604086, "event_stamp": "2011-05-31T23:23:57", "last_updated": 1512660604086, "condition_text": "explosion", "name": "explosion", "condition_description": "the balloon bursts and the participant loses all gains for the trial", "id_user": "usr_4de5345b3b6a8", "id": "con_4de5788dbc4bf"}}

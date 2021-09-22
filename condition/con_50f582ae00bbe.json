@@ -1,0 +1,1 @@
+{"type": "node", "id": "24839", "labels": ["condition"], "properties": {"creation_time": 1512660618409, "event_stamp": "2013-01-15T16:24:14", "last_updated": 1512660618409, "condition_text": "suppression", "name": "suppression", "condition_description": "the subject must produce irrelevant speech during maintenance", "id_user": "usr_49a467bf4e0db", "id": "con_50f582ae00bbe"}}

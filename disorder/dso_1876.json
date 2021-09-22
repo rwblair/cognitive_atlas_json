@@ -1,0 +1,1 @@
+{"type": "node", "id": "29941", "labels": ["disorder"], "properties": {"event_stamp": "2013-11-20T15:38:22", "id_protocol": "DOID", "name": "sexual dysfunction", "definition": "", "id_user": "usr_52a0cf72ed5c5", "id": "dso_1876", "flag_for_curator": 1}, "ISA": [{"id": "dso_0060043", "protocol": "DOID", "fulltext": "sexual disorder"}]}

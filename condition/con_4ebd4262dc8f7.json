@@ -1,0 +1,1 @@
+{"type": "node", "id": "24649", "labels": ["condition"], "properties": {"creation_time": 1512660611849, "event_stamp": "2011-11-11T15:42:26", "last_updated": 1512660611849, "condition_text": "Probe", "name": "Probe", "condition_description": "Presentation of a probe regarding the number of tones counted in the block", "id_user": "usr_49a467bf4e0db", "id": "con_4ebd4262dc8f7"}}
