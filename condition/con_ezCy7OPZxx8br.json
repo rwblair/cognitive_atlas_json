@@ -1,0 +1,1 @@
+{"type": "node", "id": "57935", "labels": ["condition"], "properties": {"creation_time": 1632340274, "last_updated": 1632340274, "name": "NoGo-to-Win", "id": "con_ezCy7OPZxx8br"}, "HASCONTRAST": [{"id": "cnt_jz0chQG1ersia", "weight": 1.0}, {"id": "cnt_Ho8WuUAt0Jekw", "weight": 1.0}, {"id": "cnt_EpU5mN1GWiNpd", "weight": -1.0}]}

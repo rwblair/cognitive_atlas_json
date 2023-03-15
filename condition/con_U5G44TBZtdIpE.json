@@ -1,0 +1,1 @@
+{"type": "node", "id": "57888", "labels": ["condition"], "properties": {"creation_time": 1632340266, "last_updated": 1632340266, "name": "Go-to-Avoid", "id": "con_U5G44TBZtdIpE"}, "HASCONTRAST": [{"id": "cnt_Ho8WuUAt0Jekw", "weight": -1.0}, {"id": "cnt_jz0chQG1ersia", "weight": 1.0}, {"id": "cnt_EpU5mN1GWiNpd", "weight": 1.0}]}
